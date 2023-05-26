@@ -1,22 +1,22 @@
 {
-  "name": "z-acrylic",
-  "author": "zuoez02",
-  "url": "https://github.com/zuoez02/z-acrylic",
-  "version": "0.1.0",
-  "minAppVersion": "2.8.7",
-  "displayName": {
-    "default": "Z-Acrylic",
-    "zh_CN": "Z-Acrylic"
-  },
-  "description": {
-    "default": "Z-Acrylic是一款微软Acrylic风格的主题",
-    "zh_CN": "Z-Acrylic是一款微软Acrylic风格的主题"
-  },
-  "readme": {
-    "default": "README.md",
-    "zh_CN": "README.md"
-  },
-  "modes": [
-    "light"
-  ]
+    "name": "z-acrylic",
+    "author": "zuoez02",
+    "url": "https://github.com/zuoez02/z-acrylic",
+    "version": "0.2.0",
+    "minAppVersion": "2.8.7",
+    "displayName": {
+        "default": "Z-Acrylic",
+        "zh_CN": "Z-Acrylic"
+    },
+    "description": {
+        "default": "Z-Acrylic是一款微软Acrylic风格的主题",
+        "zh_CN": "Z-Acrylic是一款微软Acrylic风格的主题"
+    },
+    "readme": {
+        "default": "README.md",
+        "zh_CN": "README.md"
+    },
+    "modes": [
+        "light"
+    ]
 }
