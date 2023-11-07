@@ -48,6 +48,14 @@ body {
     color: var(--b3-theme-on-background);
 }
 
+.toolbar + .fn__flex-1 {
+    overflow: visible;
+}
+
+.dock#dockRight, .dock#dockLeft {
+    border-color: transparent;
+}
+
 #barWorkspace {
     border: 1px solid var(--b3-theme-primary);
     border-radius: 4px;
@@ -66,6 +74,7 @@ body {
 
 #layouts {
     border-color: transparent;
+    box-shadow: 0 0 4px 4px #666;
 }
 
 .b3-dialog__body .b3-tab-bar.b3-list.b3-list--background {
